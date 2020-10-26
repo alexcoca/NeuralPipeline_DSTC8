@@ -102,6 +102,7 @@ pytorch-pretrained-bert==0.6.1
 pytz==2019.1
 PyYAML==5.1
 ray==0.6.5
+ray[debug]
 redis==3.2.1
 regex
 requests==2.21.0
